@@ -16,10 +16,9 @@
 
    Dow Jones index, Nasdaq, S&P 500 , MSCI index, group index
 
+3. Map chart application
 
-
-Map chart application
-https://mapchart.net/world.html
+   https://mapchart.net/world.html
 
 
 ## References
