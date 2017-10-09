@@ -10,11 +10,11 @@
 
 1. Historical examples
 
-Tulip crisis, Dotcom bubble burst, Estate crisis 2007 
+   Tulip crisis, Dotcom bubble burst, Estate crisis 2007 
 
 2. Index
 
-Dow Jones index, Nasdaq, S&P 500 , MSCI index, group index
+   Dow Jones index, Nasdaq, S&P 500 , MSCI index, group index
 
 
 
