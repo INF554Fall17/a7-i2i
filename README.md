@@ -48,4 +48,34 @@ svg file: a7-i2i.svg
 
    Back in 1925, this Kondratiev observed that business cycles exist, each of which comprises of four phases. We are going to visualize historical data to match and prove these waves, and show the general patterns for our audience to explore. By doing so, this time, you can trust your own judgement and make your own decisions.
 
+6. **What are you telling with your visualization? What is the story?
+   It is a real threat like earthquake or tsunami but less educate to people. It will impact to everyone. We are trying to make our visualization easy to read and use for everyone.
+
+7. **How do you plan to use interactive visuals?
+   We plan to provide our visualization works from 4 different aspects: the theory, the reality from S&P500, the impact via bar or stack chart and geographic map for the heat of economic situation of each country via MSCI index.
+
+8. **What are your design considerations?
+   We try to make the graph easy to read and have fun. We focus on familiarity, functionality and multidimensionality.
+
+9. **What are the components that make your visualization cool?
+   The design will include not only data but also psychology of indivudial investors during the interactive design.
+
+10. **How does your visualization compare to what others have done?
+   There are several infographic to talk about business cycle with a boring way. We are try to illustrate some real case with interactive to the user to make it interesting.
+
+11. **What are the technologies you plan to use?
+
+
+12. **How are you going to design, build, and evaluate?
+
+
+13. **What are your deliverables?
+
+
+14 **How do you work together?
+
+
+15. **What is your timeline?
+
+
 
