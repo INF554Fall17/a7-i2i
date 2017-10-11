@@ -89,10 +89,6 @@ For any server side communication or backend processing we might use a Flask ser
 	4. recovery
 
 
-14 **How do you work together?**
-
-   Working together is a lot of fun. We understand how the other person thinks and feels.We have also split our tasks to parts. We respect each other’s time and play to each others strength . Thereby enjoying the process as well. 
-
 15. **What is your timeline?**
 
 	The part 1 includes planning and mockups. Part2 includes the coding phase.Part 3 includes the testing phase and seeing that we have covered all parts of our story telling.The first 3 phases include the peer or critic group review. The 4th part involves the project presentatation and upload in you tube to be awesome.
