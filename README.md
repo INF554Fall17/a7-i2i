@@ -70,8 +70,9 @@ svg file: a7-i2i.svg
 
 11. **What are the technologies you plan to use?**
 
-1. Here is our technology stack. We have decided to make an choice between angular or react frameworks.  
-2. For any server side communication or backend processing we might use a Flask server which comes with python. So u get pandas and Scikit to some analysis on the data.
+
+	Here is our technology stack. We have decided to make an choice between angular or react frameworks.  
+For any server side communication or backend processing we might use a Flask server which comes with python. So u get pandas and Scikit to some analysis on the data.
 
 
 12. **How are you going to design, build, and evaluate?**
