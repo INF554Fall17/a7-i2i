@@ -87,7 +87,9 @@ For any server side communication or backend processing we might use a Flask ser
 	2. Recession.
 	3. Threat
 	4. recovery
+14. **How do you work together?**
 
+	Working together is a lot of fun. We understand how the other person thinks and feels.We have also split our tasks to parts. We respect each other’s time and play to each others strength . Thereby enjoying the process as well. 
 
 15. **What is your timeline?**
 
