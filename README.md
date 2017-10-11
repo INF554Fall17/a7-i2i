@@ -50,7 +50,7 @@ svg file: a7-i2i.svg
 
 6. **What are you telling with your visualization? What is the story?**
 
-   It is a real threat like earthquake or tsunami but less educate to people. It will impact to everyone. We are trying to make our visualization easy to read and use for everyone.
+   Business cycle is a real threat like earthquake or tsunami but less educating to people. It impacts to everyone and destroied most of your wealth assets. We are trying to make our visualization impactful but easy read and use for everyone.
 
 7. **How do you plan to use interactive visuals?**
 
@@ -69,7 +69,6 @@ svg file: a7-i2i.svg
    	There are several infographic to talk about business cycle with a boring way. We are try to illustrate some real case with interactive to the user to make it interesting.
 
 11. **What are the technologies you plan to use?**
-
 
 	Here is our technology stack. We have decided to make an choice between angular or react frameworks.  
 For any server side communication or backend processing we might use a Flask server which comes with python. So u get pandas and Scikit to some analysis on the data.
