@@ -45,6 +45,7 @@ svg file: a7-i2i.svg
    After receiving payments, other than spending them, we want to manage them. Among all these money management operations and choices, we will need guidelines to help us. In terms of stocks, we also have to decide whether to hold, sell, or buy. Trust me you don't want to buy them during a financial recession. 
 
 5. How is our visualization useful
+
    Back in 1925, this Kondratiev observed that business cycles exist, each of which comprises of four phases. We are going to visualize historical data to match and prove these waves, and show the general patterns for our audience to explore. By doing so, this time, you can trust your own judgement and make your own decisions.
 
 
