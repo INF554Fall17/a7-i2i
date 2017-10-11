@@ -66,7 +66,7 @@ svg file: a7-i2i.svg
 
 10. **How does your visualization compare to what others have done?**
 
-   There are several infographic to talk about business cycle with a boring way. We are try to illustrate some real case with interactive to the user to make it interesting.
+   	There are several infographic to talk about business cycle with a boring way. We are try to illustrate some real case with interactive to the user to make it interesting.
 
 11. **What are the technologies you plan to use?**
 
@@ -77,12 +77,12 @@ For any server side communication or backend processing we might use a Flask ser
 
 12. **How are you going to design, build, and evaluate?**
 
-  We intend to follow a simple project plan by attaching timelines to each of our phases. Our timed phases are critical for the success of our project so we shall ensure that er shall plan, build  and evaluate within our time lines. 
+  	We intend to follow a simple project plan by attaching timelines to each of our phases. Our timed phases are critical for the success of our project so we shall ensure that er shall plan, build  and evaluate within our time lines. 
 
 
 13. **What are your deliverables?**
 
-  We are telling a story therefore we shall provide all the deliverables that complement our story. We shall provide multiple charts that shall dictate the state of the market into one of the 4 phases. 
+  	We are telling a story therefore we shall provide all the deliverables that complement our story. We shall provide multiple charts that shall dictate the state of the market into one of the 4 phases. 
 	1. Expansion
 	2. Recession.
 	3. Threat
@@ -91,13 +91,9 @@ For any server side communication or backend processing we might use a Flask ser
 
 14 **How do you work together?**
 
-   Working together is a lot of fun. We understand how the other person thinks and feels.We have also split our tasks to parts. We respect each other’s time and play to each others strength . Thereby enjoying the process as well. 
+   	Working together is a lot of fun. We understand how the other person thinks and feels.We have also split our tasks to parts. We respect each other’s time and play to each others strength . Thereby enjoying the process as well. 
 
 15. **What is your timeline?**
 
-   The part 1 includes planning and mockups.
-Part2 includes the coding phase.
-Part 3 includes the testing phase and seeing that we have covered all parts of our story telling.
-The first 3 phases include the peer or critic group review. 
-The 4th part involves the project presentatation and upload in you tube to be awesome.
+	The part 1 includes planning and mockups. Part2 includes the coding phase.Part 3 includes the testing phase and seeing that we have covered all parts of our story telling.The first 3 phases include the peer or critic group review. The 4th part involves the project presentatation and upload in you tube to be awesome.
 
