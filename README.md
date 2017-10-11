@@ -48,53 +48,53 @@ svg file: a7-i2i.svg
 
    Back in 1925, this Kondratiev observed that business cycles exist, each of which comprises of four phases. We are going to visualize historical data to match and prove these waves, and show the general patterns for our audience to explore. By doing so, this time, you can trust your own judgement and make your own decisions.
 
-6. **What are you telling with your visualization? What is the story?
+6. **What are you telling with your visualization? What is the story?**
 
    It is a real threat like earthquake or tsunami but less educate to people. It will impact to everyone. We are trying to make our visualization easy to read and use for everyone.
 
-7. **How do you plan to use interactive visuals?
+7. **How do you plan to use interactive visuals?**
 
    We plan to provide our visualization works from 4 different aspects: the theory, the reality from S&P500, the impact via bar or stack chart and geographic map for the heat of economic situation of each country via MSCI index.
 
-8. **What are your design considerations?
+8. **What are your design considerations?**
 
    We try to make the graph easy to read and have fun. We focus on familiarity, functionality and multidimensionality.
 
-9. **What are the components that make your visualization cool?
+9. **What are the components that make your visualization cool?**
 
    The design will include not only data but also psychology of indivudial investors during the interactive design.
 
-10. **How does your visualization compare to what others have done?
+10. **How does your visualization compare to what others have done?**
 
    There are several infographic to talk about business cycle with a boring way. We are try to illustrate some real case with interactive to the user to make it interesting.
 
-11. **What are the technologies you plan to use?
+11. **What are the technologies you plan to use?**
 
 1. Here is our technology stack. We have decided to make an choice between angular or react frameworks.  
 2. For any server side communication or backend processing we might use a Flask server which comes with python. So u get pandas and Scikit to some analysis on the data.
 
 
-12. **How are you going to design, build, and evaluate?
+12. **How are you going to design, build, and evaluate?**
 
-We intend to follow a simple project plan by attaching timelines to each of our phases. Our timed phases are critical for the success of our project so we shall ensure that er shall plan, build  and evaluate within our time lines. 
+  We intend to follow a simple project plan by attaching timelines to each of our phases. Our timed phases are critical for the success of our project so we shall ensure that er shall plan, build  and evaluate within our time lines. 
 
 
-13. **What are your deliverables?
+13. **What are your deliverables?**
 
-We are telling a story therefore we shall provide all the deliverables that complement our story. We shall provide multiple charts that shall dictate the state of the market into one of the 4 phases. 
+  We are telling a story therefore we shall provide all the deliverables that complement our story. We shall provide multiple charts that shall dictate the state of the market into one of the 4 phases. 
 	1. Expansion
 	2. Recession.
 	3. Threat
 	4. recovery
 
 
-14 **How do you work together?
+14 **How do you work together?**
 
-Working together is a lot of fun. We understand how the other person thinks and feels.We have also split our tasks to parts. We respect each other’s time and play to each others strength . Thereby enjoying the process as well. 
+   Working together is a lot of fun. We understand how the other person thinks and feels.We have also split our tasks to parts. We respect each other’s time and play to each others strength . Thereby enjoying the process as well. 
 
-15. **What is your timeline?
+15. **What is your timeline?**
 
-The part 1 includes planning and mockups.
+   The part 1 includes planning and mockups.
 Part2 includes the coding phase.
 Part 3 includes the testing phase and seeing that we have covered all parts of our story telling.
 The first 3 phases include the peer or critic group review. 
