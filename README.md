@@ -95,3 +95,14 @@ For any server side communication or backend processing we might use a Flask ser
 
 	The part 1 includes planning and mockups. Part2 includes the coding phase.Part 3 includes the testing phase and seeing that we have covered all parts of our story telling.The first 3 phases include the peer or critic group review. The 4th part involves the project presentatation and upload in you tube to be awesome.
 
+
+## Reference:
+
+1. Wikipedia - [business cycle](https://en.wikipedia.org/wiki/Business_cycle)
+2. MSCI - [market index](https://www.msci.com/market-cap-weighted-indexes)
+3. S&P 500 - [market index](http://us.spindices.com/)
+4. The business cycle: [How does each sector perform](https://www.schwab.com/resource-center/insights/content/business-cycle-how-does-each-sector-perform)
+5. J.P. Morgan Asset Management: [Guide to the market](https://am.jpmorgan.com/us/en/asset-management/gim/adv/insights/guide-to-the-markets?gclid=EAIaIQobChMIluXH56fp1gIV0oN-Ch2dKgRsEAAYASABEgKpB_D_BwE)
+6. New Scientist: [Mystery of missing tsunamis explained by geological model](https://www.newscientist.com/article/2143611-mystery-of-missing-tsunamis-explained-by-geological-model/)
+7. WallStreetJackass: [Wall Street Cheat Sheet](http://wallstreetjackass.typepad.com/raptureready/2010/06/wall-street-cheat-sheet.html)
+	
